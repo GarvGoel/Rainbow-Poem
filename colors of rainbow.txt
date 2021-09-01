@@ -1,5 +1,4 @@
 Colors in rainbow are-
-red
 green 
 blue
 yellow(first change)
